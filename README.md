@@ -1,9 +1,9 @@
-#Description
+# Description
 
 This software is written with the OpenCV library in C++. 
 I am developing a digital image processing software that will allow me to analyze different images using a easy to use console interface.
 
-#How to Run
+# How to Run
 
 To comple run the following command in the terminal.
   g++   -o   ./<name_of_executable>  ./assg_1_montano_J.cpp
@@ -42,7 +42,7 @@ You do have the option to skip image and end the program like so
 
 ![step 6](images/step_6.png)
 
-#Upcoming goals
+# Upcoming goals
 
 1. implement capability to visualize histograms for both gray scaled and colored images 
 2. implement a variety of histogram operations on images such as histogram equalizaiton
