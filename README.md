@@ -21,12 +21,12 @@ Second part of code will through the following steps:
   *	Else it will ask for only gray scaled distribution.
  
  
-![step 2](images/step_1.png)
-![step 3](images/step_1.png)
+![step 2](images/step_2.png)
+![step 3](images/step_3.png)
  
 Third part of code will print the following statistics and images broken down into their channels 
  
-![step 4](images/step_1.png)
+![step 4](images/step_4.png)
 ![image output](images/step_4_image_printout.png)
  
 After exiting out of each image in current iteration it will repeat parts 1-3 until each image has been analyzed 
