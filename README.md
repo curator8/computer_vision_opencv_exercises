@@ -17,8 +17,8 @@ Second part of code will through the following steps:
 1.	After choosing option a, you will be prompted if you’d like to skip image or not
 2.	You will then be prompted if image is gray scaled or not 
 3.	It will then process image and ask whether you’d like to print distribution
-  i.	If Image is colored it will ask 3 times for red, blue, green respectively
-  ii.	Else it will ask for only gray scaled distribution.
+  *	If Image is colored it will ask 3 times for red, blue, green respectively
+  *	Else it will ask for only gray scaled distribution.
  
  
 ![step 2](images/step_1.png)
